@@ -40,7 +40,7 @@ export const portfolioData = {
         "Architected and launched high-performance microservices APIs delivering real-time stock market pricing data with 8ms latency, serving thousands of requests per second in a production environment.",
         "Streamlined critical workflow processes through cron job enhancement, reducing manual operational overhead by 10+ hours weekly and improving system reliability by 40%.",
         "Optimized APIs and database queries, resulting in a 3 times faster data retrieval rate and improved efficiency, enhancing overall system performance.",
-        "Delivered production configuration management tool enabling zero-downtime deployments and self-healing failure recovery for mission-critical market data APIs, improving system availability to 99.95%."
+        "Delivered production configuration management tool enabling zero-downtime deployments and self-healing failure recovery for mission-critical market data APIs, improving system availability to 99.95%.",
         "Wrote comprehensive unit and integration test cases covering 95% codebase, ensuring the reliability and accuracy of software solutions; minimized bug count and improved overall system stability.",
         "Built a scalable Intraday Updates system processing real-time fundamental stock data, ensuring 99.9% accuracy for live market operations and supporting high-frequency trading applications."
       ]
